@@ -21,6 +21,7 @@ void delay(int s){
     int k = 0;
     while(k < s){
         k++;
+        
     }
 }
 
